@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen Navigation</string>
+    <string name="person">Person</string>
+    <string name="androidicon">androidIcon</string>
+    <string name="video">Video</string>
+    <string name="star_icon">You clicked on the folder icon!</string>
+    <string name="androidIcon">You clicked on the android Icon!</string>
+    <string name="videoIcon">You clicked on the video icon!</string>
+</resources>
